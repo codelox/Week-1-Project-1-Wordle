@@ -2,7 +2,7 @@
 
 Submitted by: **Jay Boghawala**
 
-**Wordle** is an app that ... [TODO] 
+**Wordle** is an app where we have to guess a five-letter word, receiving feedback through colored tiles that indicate correct letters and their placement.
 
 Time spent: **7** hours spent in total
 
@@ -24,11 +24,6 @@ The following **optional** features are implemented:
 Here is a reminder on how to embed Loom videos on GitHub. Feel free to remove this reminder once you upload your README. 
 
 [Guide]](https://www.youtube.com/watch?v=GA92eKlYio4) .
-
-
-## Notes
-
-Describe any challenges encountered while building the app.
 
 ## License
 
